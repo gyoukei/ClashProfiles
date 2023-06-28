@@ -1,11 +1,11 @@
 # ClashProfiles
 Clash自定义规则
-## DIRECT.list
-直连列表
-## REJECT.list
-拦截列表
-## TriagePolicyGroup.ini
-分流策略组文件
+## 直连列表
+DIRECT.list
+## 拦截列表
+REJECT.list
+## 分流策略组文件
+TriagePolicyGroup.ini
 
 # Clash 支持的规则类型如下：
 - DOMAIN-SUFFIX：域名后缀匹配
