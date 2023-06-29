@@ -5,4 +5,4 @@ DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,127.0.0.1
 
 # 表示包含这个xxxx域名关键词的所有网站链接
-DOMAIN-KEYWORD,adobe
+# DOMAIN-KEYWORD,adobe
