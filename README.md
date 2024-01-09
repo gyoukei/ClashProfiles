@@ -4,6 +4,8 @@ Clash自定义规则
 DIRECT.list
 ## 拦截列表
 REJECT.list
+## 代理列表
+Proxy.list
 ## 分流策略组文件
 TriagePolicyGroup.ini
 
