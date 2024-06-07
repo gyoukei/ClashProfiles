@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,raidrive.com
 DOMAIN-SUFFIX,seaart.ai
 DOMAIN-SUFFIX,haiyiai.com
 DOMAIN-SUFFIX,online-fix.me
+DOMAIN-KEYWORD,55
+DOMAIN-KEYWORD,five
 
 # 表示包含这个xxxx域名关键词的所有网站链接
 # DOMAIN-KEYWORD,adobe
